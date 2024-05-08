@@ -37,7 +37,7 @@ This page displays the book cover, title, author, ratings, and a brief descripti
 
 ## Live Demo
 
-Check out the live demo: [View Live Demo]()
+Check out the Amazon Product Page [here](https://amazon-product-page.vercel.app/) 
 
 ## Contributing
 
